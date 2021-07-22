@@ -1,1 +1,1 @@
-web: gunicorn gitupload.wsgi --log-file -
+web: gunicorn shopdummy.wsgi --log-file -
