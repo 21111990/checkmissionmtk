@@ -1,0 +1,1 @@
+web: gunicorn gitupload.wsgi --log-file -
